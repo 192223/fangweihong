@@ -1,0 +1,5 @@
+#this is Makefile
+testCal:Paixu.c testPaixu.c
+	gcc Paixu.c testPaixu.c -o testPaixu
+clean:
+	rm testPaixu
