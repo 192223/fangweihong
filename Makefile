@@ -1,5 +1,5 @@
-#这是Makefile
-testCal:LianBiao.c testLianBiao.c
-	gcc LianBiao.c testLianBiao.c -o testLianBiao
-clean:
-	rm testLianBiao
+#queue
+testqueue:queue.c testqueue.c
+	        gcc queue.c testqueue.c -o
+	       	queue
+
