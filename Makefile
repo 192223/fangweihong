@@ -1,5 +1,3 @@
-#queue
-testqueue:queue.c testqueue.c
-	        gcc queue.c testqueue.c -o
-	       	queue
-
+#dinarytree
+tesedinarytree:dinarytree.c testdinarytree.c
+		gcc dinarytree.c testdinarytree.c -o dinarytree
